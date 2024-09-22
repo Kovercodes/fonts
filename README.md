@@ -1,7 +1,10 @@
 # Sans
 ### Mona sans
-A technology themed GitHub font, smooth and rounded.  
-[Get](https://github.com/github/mona-sans?tab=readme-ov-file)
+A technology themed GitHub font. Smooth and rounded.  
+[Get (github)](https://github.com/github/mona-sans?tab=readme-ov-file)
 ### Hubot sans
 A technology themed GitHub font, sidekick of Mona sans. Robotic and geometric.  
-[Get](https://github.com/github/mona-sans?tab=readme-ov-file)
+[Get (github)](https://github.com/github/mona-sans?tab=readme-ov-file)
+### Inter
+Old good Inter. Basic and versatile.
+[Get (google)]([https://github.com/github/mona-sans?tab=readme-ov-file](https://fonts.google.com/specimen/Inter))

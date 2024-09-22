@@ -6,5 +6,5 @@ A technology themed GitHub font. Smooth and rounded.
 A technology themed GitHub font, sidekick of Mona sans. Robotic and geometric.  
 [Get (github)](https://github.com/github/mona-sans?tab=readme-ov-file)
 ### Inter
-Old good Inter. Basic and versatile.
-[Get (google)]([https://github.com/github/mona-sans?tab=readme-ov-file](https://fonts.google.com/specimen/Inter))
+Old good Inter. Basic and versatile.  
+[Get (google)](https://fonts.google.com/specimen/Inter)

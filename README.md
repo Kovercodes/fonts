@@ -21,5 +21,8 @@ Thin and elegant font, with smooth borders and rounded letters. Best in higher w
 [Get (google)](https://fonts.google.com/specimen/Raleway/tester?stroke=Sans+Serif)
 
 ### Nunito
-Rounded edges, simple style. Base.
+Rounded edges, simple style. Base.  
 [Get (google)](https://fonts.google.com/specimen/Nunito/tester?stroke=Sans+Serif)
+
+### Rubik
+Similar to [Nunito](README.md#Nunito)
